@@ -1,4 +1,6 @@
 # Milano Explorer
+<img width="1920" height="1080" alt="Untitled design (68)" src="https://github.com/user-attachments/assets/885c8be9-3361-4ece-a0ba-2f44591e3ed5" />
+
 
 Conference demo: a **managed Expo (SDK 54)** React Native mockup of a Milan city guide — Discover feed, detail screens, five-tab navigation, mock map, and favorites persisted with AsyncStorage.
 
